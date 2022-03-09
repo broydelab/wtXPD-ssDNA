@@ -5,8 +5,7 @@ deposited on GitHub (https://github.com/broydelab/wtXPD-ssDNA).
 ## Files included:
 For each system, the trajectory files are presented in binary NETCDF format, *1.nc and *2.nc; 
 a corresponding topology PRMTOP file, *.top, and the coordinates of the initial structure in PDB file, *.pdb
-are also provided. 
-* = XPD-unmod, XPD-lesionOUT, XPD-lesionIN
+are also provided. * = XPD-unmod, XPD-lesionOUT, XPD-lesionIN
 
 ## Note 
 Water molecules and ions are not included in all files. 
