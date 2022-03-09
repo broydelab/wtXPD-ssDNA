@@ -3,9 +3,9 @@ The 3.5 µs MD simulation trajectories for XPD-unmod, and XPD-lesionOUT, and XPD
 deposited on GitHub (https://github.com/broydelab/wtXPD-ssDNA). 
 
 ## Files included:
-For each system, the trajectory files are presented in binary NETCDF format(X.nc), 
+For each system, the trajectory files are presented in binary NETCDF format(X1.nc and X2.nc), 
 a corresponding topology PRMTOP file (X.top) and PDB file with the coordinates of the initial structure (X.pdb)
-are also provided. (X = XPD-unmod, XPD-lesionOUT, XPD-lesionIN)
+are also provided. ('X' = XPD-unmod, XPD-lesionOUT, XPD-lesionIN)
 
 ## Note 
 Water molecules and ions are not included in all files. 
