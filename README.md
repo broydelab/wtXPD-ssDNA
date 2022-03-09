@@ -11,4 +11,4 @@ are also provided. * = XPD-unmod, XPD-lesionOUT, XPD-lesionIN
 * Water molecules and ions are not included in all files. 
 * The trajectories were saved every 10 ns; trajectories between 0 to 1.8 µs are saved in *1.nc and 
 between 1.8 to 3.5 µs are saved in *2.nc for each system. 
-* DNA lesion studied is the mutagenic pyrimidine (6−4) pyrimidone UV photoproduct (6−4PP lesion).
+* DNA lesion: the mutagenic pyrimidine (6−4) pyrimidone UV photoproduct, 6−4PP lesion.
