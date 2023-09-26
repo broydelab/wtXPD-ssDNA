@@ -1,5 +1,5 @@
 Mechanism of lesion verification by the human XPD helicase in nucleotide excision repair
-[](https://doi.org/10.1093/nar/gkac496)
+DOI: (https://doi.org/10.1093/nar/gkac496)
 
 ## wtXPD-ssDNA
 The 3.5 µs simulations of human XPD bound to undamaged and damaged ssDNA, containing a mutagenic pyrimidine (6−4) pyrimidone UV
